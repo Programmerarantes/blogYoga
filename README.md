@@ -1,4 +1,4 @@
-# JAMStack personal blog - starter files
+# blog JAMStack - elenventy, netlify
 
 ## Usage
 
